@@ -1,5 +1,12 @@
 # security-scripts
 
+<div align="center">
+
+[![中文](https://img.shields.io/badge/语言-中文-red.svg)](README.md)
+[![English](https://img.shields.io/badge/Language-English-blue.svg)](README_EN.md)
+
+</div>
+
 ## 项目简介 (Description)
 
 本项目主要用于**Vulhub 漏洞环境自动化验证**。
@@ -71,3 +78,5 @@ python rce/thinkphp_2_rce.py http://192.168.1.100:8080 whoami
 | **Python版本** |      3.14.5      |
 |   **目标环境**   |      Vulhub      |
 |    **状态**    |      持续更新中       |
+
+> **提示**：本仓库仅供学习研究使用，请勿用于非法用途。
