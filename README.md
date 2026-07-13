@@ -63,6 +63,12 @@ pip install -r requirements.txt
 
 ### ThinkPHP 2.x RCE 漏洞利用
 
+仅作为举例说明，实际以代码为准
+
+```
+python rce/thinkphp_2_rce.py http://192.168.1.100:8080
+```
+
 ```bash
 python rce/thinkphp_2_rce.py http://192.168.1.100:8080 whoami
 ```
